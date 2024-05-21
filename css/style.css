@@ -131,8 +131,9 @@ img {
 /* Adjust left property for small screens */
 @media (max-width: 599px) {
   .popup-content {
-    left: 10%;
-    transform: translate(-10%, -50%);
+    top: 14%;
+    left: 15%;
+    transform: translate(-15%, -15%);
   }
 }
 
